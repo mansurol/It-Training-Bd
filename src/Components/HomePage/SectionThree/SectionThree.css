@@ -1,0 +1,86 @@
+
+@media only screen and (min-width:768px){
+    .ImgTwoStyle img {
+        width: 100%;
+        height: 250px;
+    }
+    .CompleteContentStyle h2 {
+        font-size: 25px;
+    }
+    .ViewAllCourse {
+        width: 46%;
+        margin-bottom: 20px;
+        background-color: bisque;
+        border-radius: 5px;
+
+    }
+    .ViewAllCourseStyle {
+        padding-left: 10px;
+      
+      
+    }
+    .DemandCourseStyle{
+        list-style-type: circle;
+        color: brown;
+        }
+      
+    }
+    
+ 
+ @media only screen and (max-width:480px){
+    .ViewAllCourse {
+        width: 46%;
+        margin-bottom: 20px;
+        background-color: bisque;
+        border-radius: 5px;
+
+    }
+
+    .ImgTwoStyle img {
+        width: 100%;
+        height: 250px;
+    }
+    .ViewAllCourseStyle {
+        padding-left: 10px;
+      
+      
+    }
+    .DemandCourseStyle{
+        list-style-type: circle;
+        color: brown;
+        }
+}
+    
+@media only screen and (min-width:992px){
+    .DemandCourseStyle{
+        list-style-type: circle;
+        color: brown;
+        }
+        .ImgTwoStyle img {
+            width: 100%;
+            height: 250px;
+        }
+        .ViewAllCourse {
+            background-color: bisque;
+            width: 25%;
+            border-radius: 5px;
+        }
+        .ViewAllCourseStyle {
+            padding-left: 10px;
+          
+          
+        }
+        .ViewAllCourseStyleTwo{
+             color: black; 
+             text-decoration: none;         
+          
+        }
+        .CompleteContentStyle h2 {
+            font-size: 35px;
+        }
+        
+       
+      
+    }
+
+ 

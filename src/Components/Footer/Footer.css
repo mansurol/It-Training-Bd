@@ -1,0 +1,16 @@
+.FooterContent p{
+    text-align: justify;
+}
+.FooterContentHover p:hover {
+color:#FFAB5E;
+}
+.IconStyle {
+padding: 10px;
+}
+.Instagram {
+    color:#D04076 ;
+  
+}
+.youtube{
+    color : red
+}

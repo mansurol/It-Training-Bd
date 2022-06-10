@@ -1,0 +1,22 @@
+.borderStyle{
+    border-right: 2px solid gray ;
+    height: 100px;
+    margin-top: 55px;
+    
+}
+
+@media only screen and (min-width:768px){
+    .SectionTwoStyle h6{
+        font-size:16px
+    }
+       
+      
+    }
+    
+ 
+ @media only screen and (max-width:480px){
+    .SectionTwoStyle h6{
+        font-size:16px
+ }
+}
+    

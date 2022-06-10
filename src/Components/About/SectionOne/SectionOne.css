@@ -1,0 +1,10 @@
+.BgColor{
+    background-color: #F2F8F9;
+}
+
+.AboutContent p {
+    line-height :35px;
+    font-size: 20px;
+    text-align: justify;
+}
+   

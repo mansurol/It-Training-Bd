@@ -1,0 +1,16 @@
+.BgColorFour {
+    background-color: #E8E2DC;
+}
+.miniBox{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: orange;
+    margin-left: 25px;
+}
+.textStyle p{
+margin: 15px;
+}
+.end {
+    float: right;
+}
