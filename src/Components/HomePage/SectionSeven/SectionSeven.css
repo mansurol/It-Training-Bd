@@ -1,0 +1,17 @@
+.BgColor7{
+    background-color: #EBEBEB;
+}
+.supportImg img{
+width: 100%;
+}
+.supportContentStyle h6{
+    font-size: 19px;
+}
+.supportContentStyle p{
+line-height: 30px;
+text-align: justify;
+}
+.supportContentStyle h2{
+    font-size: 39px;
+    color: #07324F;
+}

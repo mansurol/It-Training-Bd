@@ -10,7 +10,7 @@ const SectionTwo = () => {
     return (
         <div>
             <Container>
-                <div className="row">
+                <div className="row pt-5 pb-5">
                     <div className="col-lg-7 col-md-6 col-sm-6 CompleteContentStyle">
                        <ol className="DemandCourseStyle">
                            <li><b>On-Demand Course</b></li>

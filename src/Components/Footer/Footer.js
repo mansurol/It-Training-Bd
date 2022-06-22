@@ -33,7 +33,7 @@ const Footer = () => {
                     </div>
 
                     <div className="col-lg-3 col-md-4 FooterContentHover">
-                        <h2 className="pt-5 "><b>Popular Courses</b></h2>
+                        <h4 className="pt-5 "><b>POPULAR COURSES</b></h4>
                         <hr/>
                         <p>Hands-On SQA & Cyber Security</p>
                         <p>ISTQB Certified tester Foundation </p>
@@ -48,7 +48,7 @@ const Footer = () => {
                      </div>
 
                      <div className="col-lg-3 col-md-4 ">
-                     <h2 className="pt-5 "><b>Contact Info</b></h2>
+                     <h4 className="pt-5 "><b>CONTACT INFO</b></h4>
                      <hr/>
                         <h4><b>Address</b></h4>
                         <p>50/1 Rajani chowdhury Road ,<br/>Gandaria , Dhaka</p>
